@@ -15,7 +15,7 @@ We won an **ACM Distinguished Paper Award** for our study on the smart invocatio
 
 **People**: Aral de Moor, Arie van Deursen, and [Maliheh Izadi][mali]
 
-![]({{ 'img/aiware2024_DistinguishedPaperAward.jpg' | relative_url }}){: width="60%" style="float: left"}
+![]({{ 'img/aiware2024_DistinguishedPaperAward.jpg' | relative_url }}){: width="60%" style="float: center"}
 _DistinguishedPaperAward at [AIWare 2024][aiwareconf]
 
 [aiware-paper]: https://dl.acm.org/doi/abs/10.1145/3664646.3664760
