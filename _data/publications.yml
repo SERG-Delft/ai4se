@@ -87,4 +87,14 @@
     - 3
   venue: The 2nd Workshop on Integrated Development Environments (the <b>IDE</b> Workshop), Co-located with <b>ACM/IEEE ICSE</b>
   year: 2025
-  preprint: https://ide-workshop.github.io/
+  preprint: https://arxiv.org/abs/2501.02491
+
+- title: <i>HyperSeq; A Hyper-Adaptive Representation for Predictive Sequencing of States</i>
+  authors:
+    - Roham Koohestani
+    - Maliheh Izadi
+  tracks:
+    - 2, 3
+  venue: The 2025 <b>ACM</b> International Conference on the Foundations of Software Engineering (<b>FSE</b>) - Idea, Visions and Reflections Track
+  year: 2025
+  preprint: https://arxiv.org/abs/2503.10254
