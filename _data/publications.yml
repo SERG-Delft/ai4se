@@ -89,6 +89,17 @@
   year: 2025
   preprint: https://arxiv.org/abs/2501.02491
 
+- title: <i>A Multi-agent Onboarding Assistant based on Large Language Models, Retrieval Augmented Generation, and Chain-of-Thought</i>
+  authors:
+    - Andrei-Cristian Ionescu
+    - Sergey Titov
+    - Maliheh Izadi
+  tracks:
+    - 3
+  venue: The 2025 <b>ACM</b> International Conference on the Foundations of Software Engineering (<b>FSE</b>) - Demo Track
+  year: 2025
+  preprint:
+  
 - title: <i>HyperSeq; A Hyper-Adaptive Representation for Predictive Sequencing of States</i>
   authors:
     - Roham Koohestani
