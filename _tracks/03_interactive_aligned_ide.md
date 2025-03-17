@@ -16,6 +16,10 @@ The goal of this project is to embed emerging LLM practices as code generation o
 - Ziyou Li (TU Delft)
   
 #### MSc Students:
+- Nadine Kuo
 - Remco Schrijver (graduated in 2024): [Thesis](/projects/track-1/2024-07-08-beyond-acceptance-rates-thesis-remco-schrijver)
 - Frank van der Heijden (graduated in 2024): [Thesis](/projects/track-3/2024-07-08-inreractive-adaptive-llm-thesis-frank-van-der-heijden)
-- Andrei Ionescu: [Thesis](\projects/track-3/2024-10-07-onboarding-agent_andrei-ionescu.md)
+- Andrei Ionescu (graduated in 2024): [Thesis](\projects/track-3/2024-10-07-onboarding-agent_andrei-ionescu.md)
+
+#### Scientific Developer
+- Roham Koohestani: Honours BSc student
