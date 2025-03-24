@@ -28,6 +28,10 @@
       role: Partnerships Coordinator
       affiliation: TUDelft
       photo_url: img/avatars/Venkatesh.jpg
+    - name: Mitchell Olsthoorn
+      role: Student Coordinator
+      affiliation: TUDelft
+      photo_url: img/avatars/mitchell.jpg
 
 
 - category: Track 1 - Validation of Generated Code
@@ -40,6 +44,10 @@
       role: Track Lead
       affiliation: JetBrains
       photo_url: img/avatars/pouria.jpeg
+    - name: Mitchell Olsthoorn
+      role: Researcher
+      affiliation: TUDelft
+      photo_url: img/avatars/mitchell.jpg
     - name: Azat Abdullin
       role: PhD Researcher
       affiliation: JetBrains
