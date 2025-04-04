@@ -98,7 +98,7 @@
     - 3
   venue: The 2025 <b>ACM</b> International Conference on the Foundations of Software Engineering (<b>FSE</b>) - Demo Track
   year: 2025
-  preprint:
+  preprint: https://arxiv.org/abs/2503.23421
   
 - title: <i>HyperSeq; A Hyper-Adaptive Representation for Predictive Sequencing of States</i>
   authors:
