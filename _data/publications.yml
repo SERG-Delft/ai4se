@@ -110,3 +110,23 @@
   venue: The 2025 <b>ACM</b> International Conference on the Foundations of Software Engineering (<b>FSE</b>) - Idea, Visions and Reflections Track
   year: 2025
   preprint: https://arxiv.org/abs/2503.10254
+
+- title: <i>Enhancing Large Language Model Integration in Integrated Development Environments</i>
+  authors:
+    - Daniele Cipollone
+  tracks:
+    - 2
+  venue: The 2025 <b>ACM</b> International Conference on the Foundations of Software Engineering (<b>FSE</b>) - Doctoral Symposium
+  year: 2025
+  preprint: 
+
+- title: <i>Mediating between Human Programmers and Integrated Development Environments using LLM-based Agents</i>
+  authors:
+    - Ziyou Li
+  tracks:
+    - 3
+  venue: The 2025 <b>ACM</b> International Conference on the Foundations of Software Engineering (<b>FSE</b>) - Doctoral Symposium
+  year: 2025
+  preprint: 
+
+
