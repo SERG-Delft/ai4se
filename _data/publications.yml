@@ -129,4 +129,11 @@
   year: 2025
   preprint: 
 
-
+- title: <i>Enhancing Human-IDE Interaction in the SDLC using LLM-based Mediator Agents</i>
+  authors:
+    - Ziyou Li, Maliheh Izadi
+  tracks:
+    - 3
+  venue: The 1st International Workshop on AI-Augmented SDLC, co-located with (<b>FSE</b>)
+  year: 2025
+  preprint: 
