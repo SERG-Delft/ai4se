@@ -79,8 +79,12 @@
       role: Track Lead
       affiliation: TUDelft
       photo_url: img/avatars/maliheh.jpeg
+    - name: Sergey Titov
+      role: Track Lead
+      affiliation: JetBrains
+      photo_url: img/avatars/sergey.jpeg
     - name: Egor Bogomolov
-      role: Track Lead/PhD Researcher
+      role: PhD Researcher
       affiliation: JetBrains
       photo_url: img/avatars/egor-b.jpeg
     - name: Daniele Cipollone
@@ -95,12 +99,8 @@
       role: Track Lead
       affiliation: TUDelft
       photo_url: img/avatars/maliheh.jpeg
-    - name: Sergey Titov
-      role: Track Lead
-      affiliation: JetBrains
-      photo_url: img/avatars/sergey.jpeg
     - name: Agnia Sergeyuk
-      role: PhD Researcher
+      role: Track Lead/PhD Researcher
       affiliation: JetBrains
       photo_url: img/avatars/agnia.jpeg
     - name: Ziyou Li
