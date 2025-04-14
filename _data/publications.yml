@@ -43,7 +43,7 @@
   tracks:
     - 2
     - 3
-  venue: Proceedings of the 1st ACM International Conference on AI-Powered Software (<b>AIWare</b>), <strong>ACM Distinguished Paper Award</strong> &#127942;, co-located with ACM <b>FSE</b>
+  venue: Proceedings of the 1st ACM International Conference on AI-Powered Software (<strong>AIWare</strong>), co-located with ACM <b>FSE</b>, <strong>ACM Distinguished Paper Award</strong> &#127942;
   year: 2024
   preprint: https://dl.acm.org/doi/abs/10.1145/3664646.3664760
 
@@ -85,7 +85,7 @@
     - Maliheh Izadi
   tracks:
     - 3
-  venue: The 2nd Workshop on Integrated Development Environments (the <b>IDE</b> Workshop), Co-located with <b>ACM/IEEE ICSE</b>
+  venue: The 2nd Workshop on Integrated Development Environments (the <strong>IDE</strong> Workshop), Co-located with <b>ACM/IEEE ICSE</b>
   year: 2025
   preprint: https://arxiv.org/abs/2501.02491
 
@@ -96,7 +96,7 @@
     - Maliheh Izadi
   tracks:
     - 3
-  venue: ACM International Conference on the Foundations of Software Engineering (<b>FSE</b>) - Demo Track
+  venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE</strong>)
   year: 2025
   preprint: https://arxiv.org/abs/2503.23421
   
@@ -107,7 +107,7 @@
   tracks:
     - 3
     - 2
-  venue: ACM International Conference on the Foundations of Software Engineering (<b>FSE</b>) - Idea, Visions and Reflections Track
+  venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE</strong>)
   year: 2025
   preprint: https://arxiv.org/abs/2503.10254
 
@@ -116,7 +116,7 @@
     - Daniele Cipollone
   tracks:
     - 2
-  venue: ACM International Conference on the Foundations of Software Engineering (<b>FSE</b>) - Doctoral Symposium
+  venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE</strong>)
   year: 2025
   preprint: 
 
@@ -125,25 +125,30 @@
     - Ziyou Li
   tracks:
     - 3
-  venue: The 2025 <b>ACM</b> International Conference on the Foundations of Software Engineering (<b>FSE</b>) - Doctoral Symposium
+  venue: The 2025 <b>ACM</b> International Conference on the Foundations of Software Engineering (<strong>FSE</strong>)
   year: 2025
   preprint: 
 
 - title: <i>Enhancing Human-IDE Interaction in the SDLC using LLM-based Mediator Agents</i>
   authors:
-    - Ziyou Li, Maliheh Izadi
+    - Ziyou Li
+    - Maliheh Izadi
   tracks:
     - 3
-  venue: The 1st International Workshop on AI-Augmented SDLC, co-located with (<b>FSE</b>)
+  venue: The 1st International Workshop on AI-Augmented SDLC, co-located with (<strong>FSE</strong>)
   year: 2025
   preprint: 
 
   - title: <i> When People Come First, A Human-Centered Approach to Computer Science Education</i>
   authors:
-    - Ilya Zakharov, Liudmila Piatnitckaia, Anastasia Birillo, Agnia Sergeyuk, Maliheh Izadi
+    - Ilya Zakharov
+    - Liudmila Piatnitckaia
+    - Anastasia Birillo
+    - Agnia Sergeyuk
+    - Maliheh Izadi
   tracks:
     - 3
     - 5
-  venue: The ACM Conference on Innovation and Technology in Computer Science Education (<b>ITiCSE</b>)
+  venue: The ACM Conference on Innovation and Technology in Computer Science Education (<strong>ITiCSE</strong>)
   year: 2025
   preprint:
