@@ -137,3 +137,13 @@
   venue: The 1st International Workshop on AI-Augmented SDLC, co-located with (<b>FSE</b>)
   year: 2025
   preprint: 
+
+  - title: <i> When People Come First, A Human-Centered Approach to Computer Science Education</i>
+  authors:
+    - Ilya Zakharov, Liudmila Piatnitckaia, Anastasia Birillo, Agnia Sergeyuk, Maliheh Izadi
+  tracks:
+    - 3
+    - 5
+  venue: The ACM Conference on Innovation and Technology in Computer Science Education (<b>ITiCSE</b>)
+  year: 2025
+  preprint:
