@@ -134,6 +134,14 @@
       role: PhD Researcher
       affiliation: TUDelft
       photo_url: img/avatars/zahra.jpg
+    - name: Andac Durmaz
+      role: Research Assistant
+      affiliation: TUDelft
+      photo_url: img/avatars/andac.jpg
+    - name: Ates Gorpelioglu
+      role: Research Assistant
+      affiliation: TUDelft
+      photo_url: img/avatars/ates.jpg
 
 - category: Track 5 - Intelligent Teaching Assistant in Programming Education
   people:
