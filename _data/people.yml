@@ -107,10 +107,6 @@
       role: PhD Researcher
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/ziyou.jpg
-    - name: Nadine Kuo
-      role: Intern/MSc Student
-      affiliation: JetBrains, TUDelft
-      photo_url: img/avatars/nadine.png
     - name: Roham Koohestani
       role: Research Assistant
       affiliation: TUDelft
@@ -185,3 +181,7 @@
       role: Graduated MSc Student/Intern (Track 3)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/andrei.jpeg
+    - name: Nadine Kuo
+      role: Graduated MSc Student/Intern (Track 3)
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/nadine.png
