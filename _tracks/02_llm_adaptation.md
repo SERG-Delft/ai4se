@@ -17,4 +17,4 @@ This project proposes to adapt, personalize, and evaluate the giant generic lang
 - Danielle Cipollone (TU Delft)
   
 #### MSc Students:
-- Tim van Dam (graduated in 2024): [Thesis](/projects/track-2/2024-07-08-enriching-source-code-with-contextual-data-thesis-tim-van-dam)
+- Tim van Dam (graduated in 2024): [Thesis]({{ site.baseurl }}/projects/track-2/2024-07-08-enriching-source-code-with-contextual-data-thesis-tim-van-dam)
