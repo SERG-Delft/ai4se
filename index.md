@@ -13,7 +13,7 @@ The research partnership is run by a joint team of researchers at JetBrains and 
 [Arie van Deursen][avandeursen] and [Maliheh Izadi][maliheh] from TU Delft,
 as well as [Vladimir Kovalenko][vladimir] and [Pouria Derakhshanfar][pouria] from JetBrains._
 
-Applied Program Analysis, ICTL, and ML4SE labs from JetBrains Research are involved in AI4SE.
+Software Testing Research, Code Modeling, HAX, Dynamic Program Analysis, Education Research teams from JetBrains Research are involved in AI4SE.
 From TU Delft's side, [AISE][aise] and [CISE](https://www.ciselab.nl/) research labs from the [Software Engineering Research Group][serg] and the [Center of Education and Learning](https://www.educationandlearning.nl/home) are involved.
 We are open to collaborations!
 

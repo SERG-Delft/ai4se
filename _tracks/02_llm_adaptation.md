@@ -12,7 +12,7 @@ Given the competitive landscape surrounding the use of AI today, mere developmen
 This project proposes to adapt, personalize, and evaluate the giant generic language models to different scenarios to yield tangible, timely, safe, and personalized outputs for the end-users.
 
 
-#### PhD Students: 
+#### PhD Researchers: 
 - Egor Bogomolov (JetBrains)
 - Danielle Cipollone (TU Delft)
   

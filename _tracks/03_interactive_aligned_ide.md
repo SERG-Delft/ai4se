@@ -11,7 +11,7 @@ An essential part of the success of tools like GitHub Copilot and ChatGPT is the
 
 The goal of this project is to embed emerging LLM practices as code generation or code explanation into the developer workflow without disturbing the user and improving her productivity. 
 
-#### PhD Students: 
+#### PhD Researchers: 
 - Agnia Sergeyuk (JetBrains)
 - Ziyou Li (TU Delft)
   
