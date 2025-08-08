@@ -137,14 +137,6 @@
       role: PhD Researcher
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/yuri.jpeg
-    - name: Arnav Chopra
-      role: Intern/MSc Student
-      affiliation: JetBrains, TUDelft
-      photo_url: img/avatars/arnav.jpg
-    - name: Casper Dekeling
-      role: Intern/MSc Student
-      affiliation: JetBrains, TUDelft
-      photo_url: img/avatars/casper.jpg
       
 
 - category: Former members
@@ -165,10 +157,10 @@
       role: Graduated MSc Student/Intern (Track 3)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/andrei.jpeg
-#    - name: Aral de Moor
-#      role: Graduated MSc Student/Intern (Track 2)
-#      affiliation: JetBrains, TUDelft
-#      photo_url: img/avatars/aral.jpg
+    - name: Aral de Moor
+      role: Graduated MSc Student/Intern (Track 2)
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/aral.png
     - name: Nadine Kuo
       role: Graduated MSc Student/Intern (Track 3)
       affiliation: JetBrains, TUDelft
@@ -189,5 +181,13 @@
       role: Graduated MSc Student/Intern (Track 1)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/milan.jpg
+    - name: Arnav Chopra
+      role: Graduated MSc Student/Intern (Track 5)
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/arnav.jpg
+    - name: Casper Dekeling
+      role: Graduated MSc Student/Intern (Track 5)
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/casper.jpg
 
 
