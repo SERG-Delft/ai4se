@@ -152,3 +152,41 @@
   venue: The ACM Conference on Innovation and Technology in Computer Science Education (<strong>ITiCSE</strong>)
   year: 2025
   preprint:
+
+- title: <i> Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation </i>
+  authors:
+    - Azat Abdullin
+    - Pouria Derakhshanfar
+    - Annibale Panichella
+  tracks:
+    - 1
+  venue: 18th  IEEE International Conference on Software Testing, Verification and Validation (<strong>ICST</strong>)
+  year: 2025
+  preprint: https://arxiv.org/abs/2501.10200
+
+- title: <i> Improving the Comprehensibility of Generated Test Suites Using Test Case Clustering </i>
+  authors:
+    - Mitchell Olsthoorn
+  tracks:
+    - 1
+  venue: 18th  IEEE International Conference on Software Testing, Verification and Validation (<strong>ICST</strong>) - Short Papers, Vision and Emerging Results Track
+  year: 2025
+  preprint: https://pure.tudelft.nl/ws/portalfiles/portal/241537421/icst25short-id71-p-f3225ede06-102234-preprint.pdf
+
+- title: <i> Designing and Evaluating AI‑Generated Multimodal Analogy‑Based Explanations </i>
+  authors:
+    - Yuri Noviello
+  tracks:
+    - 5
+  venue: 26th International Conference on Artificial Intelligence in Education (<strong>AIED</strong>)
+  year: 2025
+  preprint:
+
+- title: <i> Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks </i>
+  authors:
+    - Annibale Panichella
+  tracks:
+    - 1
+  venue: The 47th IEEE/ACM International Conference on Software Engineering
+  year: 2025
+  preprint: https://pure.tudelft.nl/ws/portalfiles/portal/239051303/main.pdf
