@@ -153,7 +153,7 @@
   year: 2025
   preprint:
 
-- title: <i> Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation </i>
+- title: "<i> Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation </i>"
   authors:
     - Azat Abdullin
     - Pouria Derakhshanfar
