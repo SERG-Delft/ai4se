@@ -12,5 +12,5 @@ This track aims to develop an intelligent, AI-powered teaching assistant that pr
 - Yuri Noviello 
 
 #### MSc Students:
-- Casper Dekeling
-- Arnav Chopra
+- Casper Dekeling ([thesis](https://resolver.tudelft.nl/uuid:dca1cbce-fa3e-4ce8-8393-27198a3fa7aa))
+- Arnav Chopra ([thesis](https://resolver.tudelft.nl/uuid:6607a5ee-ddd0-4d7b-8c0f-fc8942336593))

@@ -89,6 +89,15 @@
   year: 2025
   preprint: https://arxiv.org/abs/2501.02491
 
+- title: <i> Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks </i>
+  authors:
+    - Annibale Panichella
+  tracks:
+    - 1
+  venue: The 47th IEEE/ACM International Conference on Software Engineering (<strong>ACM/IEEE ICSE - Research track</strong>)
+  year: 2025
+  preprint: https://pure.tudelft.nl/ws/portalfiles/portal/239051303/main.pdf
+
 - title: <i>A Multi-agent Onboarding Assistant based on Large Language Models, Retrieval Augmented Generation, and Chain-of-Thought</i>
   authors:
     - Andrei-Cristian Ionescu
@@ -118,7 +127,7 @@
     - 2
   venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE</strong>)
   year: 2025
-  preprint: 
+  preprint: https://dl.acm.org/doi/10.1145/3696630.3731471
 
 - title: <i>Mediating between Human Programmers and Integrated Development Environments using LLM-based Agents</i>
   authors:
@@ -127,7 +136,7 @@
     - 3
   venue: The 2025 <b>ACM</b> International Conference on the Foundations of Software Engineering (<strong>FSE</strong>)
   year: 2025
-  preprint: 
+  preprint: https://dl.acm.org/doi/10.1145/3696630.3731460
 
 - title: <i>Enhancing Human-IDE Interaction in the SDLC using LLM-based Mediator Agents</i>
   authors:
@@ -137,7 +146,7 @@
     - 3
   venue: The 1st International Workshop on AI-Augmented SDLC, co-located with (<strong>FSE</strong>)
   year: 2025
-  preprint: 
+  preprint: https://dl.acm.org/doi/10.1145/3696630.3728721
 
 - title: <i> When People Come First, A Human-Centered Approach to Computer Science Education</i>
   authors:
@@ -151,7 +160,7 @@
     - 5
   venue: The ACM Conference on Innovation and Technology in Computer Science Education (<strong>ITiCSE</strong>)
   year: 2025
-  preprint:
+  preprint: https://dl.acm.org/doi/10.1145/3724389.3730766
 
 - title: "<i> Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation </i>"
   authors:
@@ -180,13 +189,53 @@
     - 5
   venue: 26th International Conference on Artificial Intelligence in Education (<strong>AIED</strong>)
   year: 2025
-  preprint:
+  preprint: https://link.springer.com/chapter/10.1007/978-3-031-99261-2_51
 
-- title: <i> Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks </i>
+- title: "<i> Metamorphic Testing of Deep Code Models: A Systematic Literature Review </i>"
   authors:
+    - Ali Asgari
+    - Milan de Koning
+    - Pouria Derakhshanfar
     - Annibale Panichella
   tracks:
     - 1
-  venue: The 47th IEEE/ACM International Conference on Software Engineering
+  venue:
   year: 2025
-  preprint: https://pure.tudelft.nl/ws/portalfiles/portal/239051303/main.pdf
+  preprint: https://doi.org/10.48550/arXiv.2507.22610
+
+- title: "<i> TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs </i>"
+  authors:
+    - Daniele Cipollone
+    - Egor Bogomolov
+    - Arie van Deursen
+    - Maliheh Izadi
+  tracks:
+    - 2
+  venue:
+  year: 2025
+  preprint: https://doi.org/10.48550/arXiv.2508.02455
+
+- title: "<i> Human-AI Experience in Integrated Development Environments: A Systematic Literature Review </i> "
+  authors:
+    - Agnia Sergeyuk
+    - Ilya Zakharov
+    - Ekaterina Koshchenko
+    - Maliheh Izadi
+  tracks:
+    - 3
+  venue:
+  year: 2025
+  preprint: https://doi.org/10.48550/arXiv.2503.06195
+
+- title: <i> Bridging Developer Needs and Feasible Features for AI Assistants in IDEs </i>
+  authors:
+    - Agnia Sergeyuk
+    - Ekaterina Koshchenko
+    - Ilya Zakharov
+    - Timofey Bryksin
+    - Maliheh Izadi
+  tracks:
+    - 3
+  venue:
+  year: 2025
+  preprint: https://doi.org/10.48550/arXiv.2410.08676

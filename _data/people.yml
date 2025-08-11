@@ -142,51 +142,51 @@
 - category: Former members
   people:
     - name: Remco Schrijver
-      role: Graduated MSc Student/Intern (Track 1, 3)
+      role: MSc Student/Intern (Track 1, 3)
       affiliation: JetBrains, TUDelft 
       photo_url: img/avatars/remco.jpeg
     - name: Tim van Dam
-      role: Graduated MSc Student/Intern (Track 2)
+      role: MSc Student/Intern (Track 2)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/tim.jpeg      
     - name: Frank van der Heijden
-      role: Graduated MSc Student/Intern (Track 3)
+      role: MSc Student/Intern (Track 3)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/frank.jpeg
     - name: Andrei-Cristian Ionescu
-      role: Graduated MSc Student/Intern (Track 3)
+      role: MSc Student/Intern (Track 3)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/andrei.jpeg
     - name: Aral de Moor
-      role: Graduated MSc Student/Intern (Track 2)
+      role: Research assistant/Intern (Track 2)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/aral.png
     - name: Nadine Kuo
-      role: Graduated MSc Student/Intern (Track 3)
+      role: MSc Student/Intern (Track 3)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/nadine.png
     - name: Marat Akhin
-      role: ex Researcher (Track 1)
+      role: Researcher (Track 1)
       affiliation: JetBrains
       photo_url: img/avatars/marat.jpeg
     - name: Azat Abdullin
-      role: ex PhD Researcher (Track 1)
+      role: PhD Researcher (Track 1)
       affiliation: JetBrains
       photo_url: img/avatars/azat.jpeg
     - name: Sergey Datskiv
-      role: Graduated MSc Student/Intern (Track 1)
+      role: MSc Student/Intern (Track 1)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/sergey-datskiv.jpg
     - name: Milan de Koning
-      role: Graduated MSc Student/Intern (Track 1)
+      role: MSc Student/Intern (Track 1)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/milan.jpg
     - name: Arnav Chopra
-      role: Graduated MSc Student/Intern (Track 5)
+      role: MSc Student/Intern (Track 5)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/arnav.jpg
     - name: Casper Dekeling
-      role: Graduated MSc Student/Intern (Track 5)
+      role: MSc Student/Intern (Track 5)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/casper.jpg
 

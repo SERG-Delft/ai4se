@@ -30,5 +30,5 @@ We are currently working on assessing different test generation approaches in a 
 Another focus is specifically the validation of automated JavaScript test generation. This involves constructing a benchmarking dataset from diverse JavaScript projects, with an emphasis on backend libraries and mitigating data leakage in LLM-based tools. Static analysis will be employed to select a varied range of projects for evaluation. Test generation tools such as Syntest, JetBrains' AI assistant, and TestPilot will be assessed for both quantitative and qualitative differences in metrics like coverage. Special emphasis is placed on JavaScript’s unique features, including its dynamic typing and flexibility, to understand their impact on test generation performance.
 
 ### MSc Students:
-- Sergey Datskiv [Thesis](https://resolver.tudelft.nl/uuid:27f42c2c-a59e-48b2-b8c1-9776043cbb2f)
+- Sergey Datskiv: [Thesis](https://resolver.tudelft.nl/uuid:27f42c2c-a59e-48b2-b8c1-9776043cbb2f)
 - Saga Rut Sunnevudóttir
