@@ -9,11 +9,11 @@ The 11ᵗʰ Dutch National Symposium on Software Engineering (SEN 2025) took pla
 
 **AI4SE highlights from the official program:**
 
-* **Invited talk** — Burcu Kulahcioglu Ozkan (TU Delft / AI4SE Track 4): Model‑guided Testing of Distributed Systems.
+* **Event Organisation** — Dr Maliheh Izadi (TU Delft / AI4SE Track 1): Organized the event.
 
-* **Session chair** — Dr Maliheh Izadi (TU Delft / AI4SE Track 1): Chaired the afternoon session.
+* **Invited talk** — Dr Burcu Kulahcioglu Ozkan (TU Delft / AI4SE Track 4): Model‑guided Testing of Distributed Systems.
 
-* **Host‑assistant** — Roham Koohestani (AI4SE Track 3 / Research Assistant / JetBrains Intern): Assisted during the afternoon session.
+* **Host‑assistants** — Roham Koohestani and Ziyou Li (AI4SE Track 3): Assisted during the afternoon session.
 
 
 The full SEN 2025 program (including keynotes by Anton Podkopaev and Ana Sokolova, and the VERSEN Fellows & MSc awards) is available on the [event website](https://www.sen-symposium.nl/program/).
