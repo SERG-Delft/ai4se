@@ -239,3 +239,14 @@
   venue: 
   year: 2025
   preprint: https://doi.org/10.48550/arXiv.2410.08676
+
+- title: "<i> Prompt-with-Me: in-IDE Structured Prompt Management for LLM-Driven Software Engineering </i>"
+  authors:
+    - Ziyou Li
+    - Agnia Sergeyuk
+    - Maliheh Izadi
+  tracks:
+    - 3
+  venue: 40th IEEE/ACM International Conference on Automated Software Engineering, (<strong>ASE 2025 -  Industry track</strong>)
+  year: 2025
+  preprint: https://doi.org/10.48550/arXiv.2509.17096
