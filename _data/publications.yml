@@ -211,7 +211,7 @@
     - Maliheh Izadi
   tracks:
     - 2
-  venue:
+  venue: In the proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025 (Industry Track)
   year: 2025
   preprint: https://doi.org/10.48550/arXiv.2508.02455
 
@@ -236,7 +236,7 @@
     - Maliheh Izadi
   tracks:
     - 3
-  venue:
+  venue: 
   year: 2025
   preprint: https://doi.org/10.48550/arXiv.2410.08676
 
