@@ -85,11 +85,11 @@
     - Maliheh Izadi
   tracks:
     - 3
-  venue: The 2nd Workshop on Integrated Development Environments (the <strong>IDE</strong> Workshop), Co-located with <b>ACM/IEEE ICSE</b>
+  venue: The 2nd Workshop on Integrated Development Environments (the <strong>IDE Workshop</strong>), Co-located with <b>ACM/IEEE ICSE</b>
   year: 2025
   preprint: https://arxiv.org/abs/2501.02491
 
-- title: <i> Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks </i>
+- title: <i> Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks</i>
   authors:
     - Annibale Panichella
   tracks:
@@ -105,7 +105,7 @@
     - Maliheh Izadi
   tracks:
     - 3
-  venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE</strong>)
+  venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE - Demonstration</strong>)
   year: 2025
   preprint: https://arxiv.org/abs/2503.23421
   
@@ -116,7 +116,7 @@
   tracks:
     - 3
     - 2
-  venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE</strong>)
+  venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE - Ideas, Visions and Reflections</strong>)
   year: 2025
   preprint: https://arxiv.org/abs/2503.10254
 
@@ -125,7 +125,7 @@
     - Daniele Cipollone
   tracks:
     - 2
-  venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE</strong>)
+  venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE - Doctoral Symposium</strong>)
   year: 2025
   preprint: https://dl.acm.org/doi/10.1145/3696630.3731471
 
@@ -134,7 +134,7 @@
     - Ziyou Li
   tracks:
     - 3
-  venue: The 2025 <b>ACM</b> International Conference on the Foundations of Software Engineering (<strong>FSE</strong>)
+  venue: The 2025 <b>ACM</b> International Conference on the Foundations of Software Engineering (<strong>FSE - Doctoral Symposium</strong>)
   year: 2025
   preprint: https://dl.acm.org/doi/10.1145/3696630.3731460
 
@@ -144,7 +144,7 @@
     - Maliheh Izadi
   tracks:
     - 3
-  venue: The 1st International Workshop on AI-Augmented SDLC, co-located with (<strong>FSE</strong>)
+  venue: The 1st International Workshop on AI-Augmented SDLC (<strong>AI-SDLC Workshop</strong>), co-located with (<strong>FSE</strong>)
   year: 2025
   preprint: https://dl.acm.org/doi/10.1145/3696630.3728721
 
@@ -158,40 +158,40 @@
   tracks:
     - 3
     - 5
-  venue: The ACM Conference on Innovation and Technology in Computer Science Education (<strong>ITiCSE</strong>)
+  venue: The ACM Conference on Innovation and Technology in Computer Science Education (<strong>ITiCSE - Panel contribution</strong>)
   year: 2025
   preprint: https://dl.acm.org/doi/10.1145/3724389.3730766
 
-- title: "<i> Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation </i>"
+- title: "<i> Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation</i>"
   authors:
     - Azat Abdullin
     - Pouria Derakhshanfar
     - Annibale Panichella
   tracks:
     - 1
-  venue: 18th  IEEE International Conference on Software Testing, Verification and Validation (<strong>ICST</strong>)
+  venue: 18th  IEEE International Conference on Software Testing, Verification and Validation (<strong>ICST - Research Papers Track</strong>)
   year: 2025
   preprint: https://arxiv.org/abs/2501.10200
 
-- title: <i> Improving the Comprehensibility of Generated Test Suites Using Test Case Clustering </i>
+- title: <i> Improving the Comprehensibility of Generated Test Suites Using Test Case Clustering</i>
   authors:
     - Mitchell Olsthoorn
   tracks:
     - 1
-  venue: 18th  IEEE International Conference on Software Testing, Verification and Validation (<strong>ICST</strong>) - Short Papers, Vision and Emerging Results Track
+  venue: 18th  IEEE International Conference on Software Testing, Verification and Validation (<strong>ICST - Short Papers, Vision and Emerging Results Track</strong>)
   year: 2025
   preprint: https://pure.tudelft.nl/ws/portalfiles/portal/241537421/icst25short-id71-p-f3225ede06-102234-preprint.pdf
 
-- title: <i> Designing and Evaluating AI‑Generated Multimodal Analogy‑Based Explanations </i>
+- title: <i> Designing and Evaluating AI‑Generated Multimodal Analogy‑Based Explanations</i>
   authors:
     - Yuri Noviello
   tracks:
     - 5
-  venue: 26th International Conference on Artificial Intelligence in Education (<strong>AIED</strong>)
+  venue: 26th International Conference on Artificial Intelligence in Education (<strong>AIED - Doctoral Consortium</strong>)
   year: 2025
   preprint: https://link.springer.com/chapter/10.1007/978-3-031-99261-2_51
 
-- title: "<i> Metamorphic Testing of Deep Code Models: A Systematic Literature Review </i>"
+- title: "<i> Metamorphic Testing of Deep Code Models: A Systematic Literature Review</i>"
   authors:
     - Ali Asgari
     - Milan de Koning
@@ -203,7 +203,7 @@
   year: 2025
   preprint: https://doi.org/10.48550/arXiv.2507.22610
 
-- title: "<i> TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs </i>"
+- title: "<i> TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs</i>"
   authors:
     - Daniele Cipollone
     - Egor Bogomolov
@@ -211,11 +211,11 @@
     - Maliheh Izadi
   tracks:
     - 2
-  venue: In the proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025 (Industry Track)
+  venue: In the proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering, (<strong>ASE 2025 - Industry track</strong>)
   year: 2025
   preprint: https://doi.org/10.48550/arXiv.2508.02455
 
-- title: "<i> Human-AI Experience in Integrated Development Environments: A Systematic Literature Review </i> "
+- title: "<i> Human-AI Experience in Integrated Development Environments: A Systematic Literature Review</i> "
   authors:
     - Agnia Sergeyuk
     - Ilya Zakharov
@@ -227,7 +227,7 @@
   year: 2025
   preprint: https://doi.org/10.48550/arXiv.2503.06195
 
-- title: <i> Bridging Developer Needs and Feasible Features for AI Assistants in IDEs </i>
+- title: <i> Bridging Developer Needs and Feasible Features for AI Assistants in IDEs</i>
   authors:
     - Agnia Sergeyuk
     - Ekaterina Koshchenko
@@ -240,13 +240,22 @@
   year: 2025
   preprint: https://doi.org/10.48550/arXiv.2410.08676
 
-- title: "<i> Prompt-with-Me: in-IDE Structured Prompt Management for LLM-Driven Software Engineering </i>"
+- title: "<i> Prompt-with-Me: in-IDE Structured Prompt Management for LLM-Driven Software Engineering</i>"
   authors:
     - Ziyou Li
     - Agnia Sergeyuk
     - Maliheh Izadi
   tracks:
     - 3
-  venue: 40th IEEE/ACM International Conference on Automated Software Engineering, (<strong>ASE 2025 -  Industry track</strong>)
+  venue: 40th IEEE/ACM International Conference on Automated Software Engineering, (<strong>ASE 2025 - Industry track</strong>)
   year: 2025
   preprint: https://doi.org/10.48550/arXiv.2509.17096
+
+- title: "<i>AgentGuard: Runtime Verification of AI Agents</i>"
+  authors:
+    - Roham Koohestani
+  tracks:
+    - 3
+  venue: Autonomous Agents in Software Engineering Workshop (<strong>AgenticSE Workshop</strong>), co-located with (<strong>ASE</strong>)
+  year: 2025
+  preprint: https://arxiv:org/abs/2509:23864

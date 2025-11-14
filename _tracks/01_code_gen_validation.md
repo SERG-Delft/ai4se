@@ -32,4 +32,4 @@ Another focus is specifically the validation of automated JavaScript test genera
 
 ### MSc Students:
 - Sergey Datskiv: [Thesis](https://resolver.tudelft.nl/uuid:27f42c2c-a59e-48b2-b8c1-9776043cbb2f)
-- Saga Rut Sunnevudóttir
+- Saga Rut Sunnevudóttir: [Thesis](https://repository.tudelft.nl/record/uuid:cc6bae89-ee2b-4108-a69f-2b8048c87e2c)

@@ -52,10 +52,6 @@
       role: PhD Researcher
       affiliation: TUDelft
       photo_url: img/avatars/Ali.jpg
-    - name: Saga Rut Sunnevudóttir
-      role: Intern/MSc Student
-      affiliation: JetBrains, TUDelft
-      photo_url: img/avatars/saga.jpeg
     - name: Andrei Drăgoi
       role: Intern/MSc Student
       affiliation: JetBrains, TUDelft
@@ -193,5 +189,9 @@
       role: MSc Student/Intern (Track 5)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/casper.jpg
+    - name: Saga Rut Sunnevudóttir
+      role: MSc Student/Intern (Track 1)
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/saga.jpeg
 
 
