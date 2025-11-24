@@ -1,31 +1,31 @@
 {% if publications != empty %}
 <h4 class="publications-header">{{ publications-header }}</h4>
-<ol>
-{% for item in publications reversed -%}
-<li>
-<div class="publications-item">
+<ol reversed>
+    {% for item in publications reversed -%}
+    <li>
+        <div class="publications-item">
     <span class="publications-item__authors">
         {{item.authors | array_to_sentence_string}}.
     </span>
-    <span class="publications-item__title">
+            <span class="publications-item__title">
         {% if item.preprint %}
             <a href="{{item.preprint}}">{{item.title}}.</a>
         {% else %}
             {{item.title}}
         {% endif %}
     </span>
-    <span class="publications-item__venue">
+            <span class="publications-item__venue">
         {{item.venue}},
     </span>
-    <span class="publications-item__year">
+            <span class="publications-item__year">
         <i>{{item.year}}</i>
     </span>
-</div>
-</li>
-{% endfor %}
+        </div>
+    </li>
+    {% endfor %}
 </ol>
 {% else %}
 <span class="publications-header--empty">
 </span>
 {% endif %}
-<br />
+<br/>
