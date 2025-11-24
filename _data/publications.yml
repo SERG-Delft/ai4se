@@ -18,7 +18,7 @@
     - A. Panichella
     - V.V. Kovalenko
     - P. Derakhshanfar
-  tracks: 
+  tracks:
     - 1
   venue: Proceedings - 2024 ACM/IEEE 46th International Conference on Software Engineering
   year: 2024
@@ -62,7 +62,7 @@
     - Timofey Bryksin
   tracks:
     - 2
-  venue: 
+  venue:
   year: 2024
   preprint: https://arxiv.org/abs/2406.11612
 
@@ -108,7 +108,7 @@
   venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE - Demonstration</strong>)
   year: 2025
   preprint: https://arxiv.org/abs/2503.23421
-  
+
 - title: <i>HyperSeq; A Hyper-Adaptive Representation for Predictive Sequencing of States</i>
   authors:
     - Roham Koohestani
@@ -236,7 +236,7 @@
     - Maliheh Izadi
   tracks:
     - 3
-  venue: 
+  venue:
   year: 2025
   preprint: https://doi.org/10.48550/arXiv.2410.08676
 
@@ -256,6 +256,6 @@
     - Roham Koohestani
   tracks:
     - 3
-  venue: Autonomous Agents in Software Engineering Workshop (<strong>AgenticSE Workshop</strong>), co-located with (<strong>ASE</strong>)
+  venue: The First International Workshop on Autonomous Agents in Software Engineering Workshop (<strong>AgenticSE Workshop</strong>), co-located with (<strong>ASE</strong>)
   year: 2025
   preprint: https://arxiv:org/abs/2509:23864

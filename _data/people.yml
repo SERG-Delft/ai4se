@@ -75,7 +75,7 @@
       role: PhD Researcher
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/daniele.jpeg
-  
+
 
 - category: Track 3 - Interactive and Aligned IDE
   people:
@@ -137,18 +137,18 @@
       role: PhD Researcher
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/yuri.jpeg
-      
+
 
 - category: Former members
   people:
     - name: Remco Schrijver
       role: MSc Student/Intern (Track 1, 3)
-      affiliation: JetBrains, TUDelft 
+      affiliation: JetBrains, TUDelft
       photo_url: img/avatars/remco.jpeg
     - name: Tim van Dam
       role: MSc Student/Intern (Track 2)
       affiliation: JetBrains, TUDelft
-      photo_url: img/avatars/tim.jpeg      
+      photo_url: img/avatars/tim.jpeg
     - name: Frank van der Heijden
       role: MSc Student/Intern (Track 3)
       affiliation: JetBrains, TUDelft
