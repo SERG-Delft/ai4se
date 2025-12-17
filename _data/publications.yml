@@ -62,7 +62,7 @@
     - Timofey Bryksin
   tracks:
     - 2
-  venue:
+  venue: Arxiv:2406.11612
   year: 2024
   preprint: https://arxiv.org/abs/2406.11612
 
@@ -78,6 +78,18 @@
   venue: Preprint
   year: 2024
   preprint: https://arxiv.org/abs/2410.08676
+
+- title: Understanding Concurrency Bugs in Real-World Programs with Kotlin Coroutines
+  authors:
+    - Bob Brockbernd
+    - Nikita Koval
+    - Arie van Deursen
+    - Burcu Kulahcioglu Ozkan
+  tracks:
+    - 4
+  venue: 38th European Conference on Object-Oriented Programming (ECOOP 2024)
+  year: 2024
+  preprint: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.8
 
 - title: <i>Rethinking IDE Customization for Enhanced HAX; A Hyperdimensional Perspective</i>
   authors:
@@ -96,7 +108,7 @@
     - 1
   venue: The 47th IEEE/ACM International Conference on Software Engineering (<strong>ACM/IEEE ICSE - Research track</strong>)
   year: 2025
-  preprint: https://pure.tudelft.nl/ws/portalfiles/portal/239051303/main.pdf
+  preprint: https://research.tudelft.nl/en/publications/metamorphic-based-many-objective-distillation-of-llms-for-code-re/
 
 - title: <i>A Multi-agent Onboarding Assistant based on Large Language Models, Retrieval Augmented Generation, and Chain-of-Thought</i>
   authors:
@@ -180,7 +192,7 @@
     - 1
   venue: 18th  IEEE International Conference on Software Testing, Verification and Validation (<strong>ICST - Short Papers, Vision and Emerging Results Track</strong>)
   year: 2025
-  preprint: https://pure.tudelft.nl/ws/portalfiles/portal/241537421/icst25short-id71-p-f3225ede06-102234-preprint.pdf
+  preprint: https://research.tudelft.nl/en/publications/improving-the-comprehensibility-of-generated-test-suites-using-te/
 
 - title: <i> Designing and Evaluating AI‑Generated Multimodal Analogy‑Based Explanations</i>
   authors:
@@ -191,6 +203,17 @@
   year: 2025
   preprint: https://link.springer.com/chapter/10.1007/978-3-031-99261-2_51
 
+- title: Multimodal Analogy Generation in Programming Education
+  authors:
+    - Yuri Noviello
+    - Anatasiia Birillo
+    - Gosia Migut
+  tracks:
+    - 5
+  venue: Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education V. 2
+  year: 2025
+  preprint: https://dl.acm.org/doi/abs/10.1145/3724389.3730781
+
 - title: "<i> Metamorphic Testing of Deep Code Models: A Systematic Literature Review</i>"
   authors:
     - Ali Asgari
@@ -199,9 +222,9 @@
     - Annibale Panichella
   tracks:
     - 1
-  venue:
+  venue: ACM Transactions on Software Engineering Methodology (TOSEM)
   year: 2025
-  preprint: https://doi.org/10.48550/arXiv.2507.22610
+  preprint: https://doi.org/10.1145/3766552
 
 - title: "<i> TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs</i>"
   authors:
@@ -258,4 +281,4 @@
     - 3
   venue: The First International Workshop on Autonomous Agents in Software Engineering Workshop (<strong>AgenticSE Workshop</strong>), co-located with (<strong>ASE</strong>)
   year: 2025
-  preprint: https://arxiv:org/abs/2509:23864
+  preprint: https://arxiv.org/abs/2509.23864
