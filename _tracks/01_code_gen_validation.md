@@ -4,7 +4,7 @@ track-id: 1
 title: Testing and Evaluation of LLMs and SWE Agents
 tu-leader: Annibale Panichella
 jb-leader: Pouria Derakhshanfar
-phd: Ali Asgari
+phd: Ali Asgari (TU Delft)
 ---
 
 Autonomous AI agents, leveraging the reasoning capabilities of LLMs and multi-agent orchestration, assist developers in coding, testing, and automating workflows. However, these agents introduce new operational challenges. Ensuring the safety, robustness, reliability, and long-term maintainability of LLM-powered agents designed to solve software engineering tasks remains difficult. These agents rely on both probabilistic and continuously evolving models, making their behavior hard to predict and control. Hence, cContinuous testing and the (offline or online) evaluation of agent behavior in real-world environments are crucial.
@@ -19,7 +19,7 @@ These challenges motivate research into more rigorous, scalable, and production-
 4. Task Prioritization in Agent Development Cycles
    Researching strategies and frameworks for prioritizing which SWE tasks should be used in evaluation at different stages of the agent's development lifecycle (e.g., pre-training, fine-tuning, production deployment) to ensure high-impact assessment and resource efficiency.
 
-<strong> MSc Students: </strong>
+#### MSc Students:
 
 - Remco Schrijver: [Thesis](/projects/track-1/2024-07-08-beyond-acceptance-rates-thesis-remco-schrijver)
 - Milan de Koning [Thesis](https://resolver.tudelft.nl/uuid:32d0dc6c-bb90-477c-a82d-f356d72e3587)
