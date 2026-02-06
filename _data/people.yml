@@ -75,6 +75,10 @@
       role: PhD Researcher
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/daniele.jpeg
+    - name: Alexandru Ojica
+      role: MSc Student/Intern (Track 2)
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/alexandru.png
 
 
 - category: Track 3 - Interactive and Aligned IDE
