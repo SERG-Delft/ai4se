@@ -1,6 +1,6 @@
 {% if publications != empty %}
 <h4 class="publications-header">{{ publications-header }}</h4>
-<ol>
+<ol reversed>
     {% assign sortedPubs = publications | sort: 'year' | reverse %}
     {% for item in sortedPubs %}
     <li>
