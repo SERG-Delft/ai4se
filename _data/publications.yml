@@ -238,7 +238,7 @@
   year: 2025
   preprint: https://doi.org/10.48550/arXiv.2508.02455
 
-- title: "<i> Human-AI Experience in Integrated Development Environments: A Systematic Literature Review</i> "
+- title: "<i>Human-AI experience in integrated development environments: a systematic literature review </i>"
   authors:
     - Agnia Sergeyuk
     - Ilya Zakharov
@@ -246,11 +246,11 @@
     - Maliheh Izadi
   tracks:
     - 3
-  venue:
-  year: 2025
+  venue: Empirical Software Engineering, 31(3), 55
+  year: 2026
   preprint: https://doi.org/10.48550/arXiv.2503.06195
 
-- title: <i> Bridging Developer Needs and Feasible Features for AI Assistants in IDEs</i>
+- title: <i> Developer Needs and Feasible Features for AI Assistants in IDEs</i>
   authors:
     - Agnia Sergeyuk
     - Ekaterina Koshchenko
@@ -259,7 +259,7 @@
     - Maliheh Izadi
   tracks:
     - 3
-  venue:
+  venue: the IEEE/ACM International Conference on Software Engineering 2026 (<strong>ICSE'26 - SEIP</strong>)
   year: 2025
   preprint: https://doi.org/10.48550/arXiv.2410.08676
 
@@ -282,3 +282,15 @@
   venue: The First International Workshop on Autonomous Agents in Software Engineering Workshop (<strong>AgenticSE Workshop</strong>), co-located with (<strong>ASE</strong>)
   year: 2025
   preprint: https://arxiv.org/abs/2509.23864
+
+- title: "<i>Developer Interaction Patterns with Proactive AI: A Five-Day Field Study</i>"
+  authors:
+    - Nadine Kuo
+    - Agnia Sergeyuk
+    - Valerie Chen
+    - Maliheh Izadi
+  tracks:
+    - 3
+  venue: The Annual ACM Conference on Intelligent User Interfaces (<strong>IUI</strong>)
+  year: 2026
+  preprint: https://arxiv.org/abs/2601.10253
