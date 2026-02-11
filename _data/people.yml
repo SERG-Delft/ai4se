@@ -99,6 +99,10 @@
       role: Research Assistant
       affiliation: TUDelft
       photo_url: img/avatars/roham.jpg
+    - name: Ilia Alenabi
+      role: Research Assistant
+      affiliation: TUDelft, UWaterloo
+      photo_url: img/avatars/ilia.jpg 
 
 - category: Track 4 - Utilizing Runtime Information to Improve Development Processes
   people:
