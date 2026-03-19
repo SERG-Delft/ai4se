@@ -20,6 +20,10 @@
       role: Industry Manager
       affiliation: JetBrains
       photo_url: img/avatars/pouria.jpeg
+    - name: Anastasia Barilo
+      role: Industry Administrator
+      affiliation: JetBrains
+      photo_url: img/avatars/anastasia_barilo.png
     - name: Aleksandra Fedorova
       role: Industry Administrator
       affiliation: JetBrains
@@ -130,6 +134,10 @@
       role: Research Assistant
       affiliation: TUDelft
       photo_url: img/avatars/ates.jpg
+    - name: Ioana Moruz
+      role: MSc Student/Intern (Track 4)
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/ioana.jpg
 
 - category: Track 5 - Intelligent Teaching Assistant in Programming Education
   people:
