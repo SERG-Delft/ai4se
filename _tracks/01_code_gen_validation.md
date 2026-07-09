@@ -25,4 +25,4 @@ These challenges motivate research into more rigorous, scalable, and production-
 - Milan de Koning [Thesis](https://resolver.tudelft.nl/uuid:32d0dc6c-bb90-477c-a82d-f356d72e3587)
 - Sergey Datskiv: [Thesis](https://resolver.tudelft.nl/uuid:27f42c2c-a59e-48b2-b8c1-9776043cbb2f)
 - Saga Rut Sunnevudóttir: [Thesis](https://repository.tudelft.nl/record/uuid:cc6bae89-ee2b-4108-a69f-2b8048c87e2c)
-- Andrei Drăgoi
+- Andrei Drăgoi: [Thesis](https://resolver.tudelft.nl/uuid:5e45141c-95ce-4445-930d-491aaefed5e4)
