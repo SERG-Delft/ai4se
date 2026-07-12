@@ -283,6 +283,15 @@
   year: 2025
   preprint: https://arxiv.org/abs/2509.23864
 
+- title: "<i>Metamorphic-based many-objective distillation of LLMs for code-related tasks</i>"
+  authors:
+    - Annibale Panichella
+  tracks:
+    - 1
+  venue: IEEE/ACM 47th International Conference on Software Engineering (<strong>ICSE</strong>)
+  year: 2025
+  preprint: https://arxiv.org/abs/2509.23864
+
 - title: "<i>Developer Interaction Patterns with Proactive AI: A Five-Day Field Study</i>"
   authors:
     - Nadine Kuo
@@ -294,3 +303,26 @@
   venue: The Annual ACM Conference on Intelligent User Interfaces (<strong>IUI</strong>)
   year: 2026
   preprint: https://arxiv.org/abs/2601.10253
+
+- title: "<i>A Metamorphic Testing Approach to Diagnosing Memorization in LLM-Based Program Repair</i>"
+  authors:
+    - Milan de Koning
+    - Ali Asgari
+    - Pouria Derakhshanfar
+    - Annibale Panichella
+  tracks:
+    - 1
+  venue: The 26th Conference Software Quality, Reliability, and Security (<strong>QRS</strong>)
+  year: 2026
+  preprint: https://arxiv.org/abs/2604.21579
+
+- title: "<i>Test Case Selection for Deep Neural Networks: A Replication Study on LLMs for Code (Replicability Study)</i>"
+  authors:
+    - Ali Asgari
+    - Mitchell Olsthoorn
+    - Annibale Panichella
+  tracks:
+    - 1
+  venue: The ACM SIGSOFT International Symposium on Software Testing and Analysis (<strong>ISSTA</strong>)
+  year: 2026
+  preprint: https://arxiv.org/abs/2606.27601
