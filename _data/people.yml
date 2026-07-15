@@ -56,10 +56,6 @@
       role: PhD Researcher
       affiliation: TUDelft
       photo_url: img/avatars/Ali.jpg
-    - name: Andrei Drăgoi
-      role: Intern/MSc Student
-      affiliation: JetBrains, TUDelft
-      photo_url: img/avatars/andreiD.jpeg
 
 - category: Track 2 - LLM Adaptation for Coding Tasks
   people:
@@ -209,5 +205,7 @@
       role: MSc Student/Intern (Track 1)
       affiliation: JetBrains, TUDelft
       photo_url: img/avatars/saga.jpeg
-
-
+    - name: Andrei Drăgoi
+      role: MSc Student/Intern (Track 1)
+      affiliation: JetBrains, TUDelft
+      photo_url: img/avatars/andreiD.jpeg
