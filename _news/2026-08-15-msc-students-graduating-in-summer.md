@@ -1,6 +1,6 @@
 ---
 layout: news-item
-date: 2026-08-15
+date: 2026-09-01
 title: "Two MSc students graduated in summer 2026"
 tracks: [ 1, 2 ]
 ---

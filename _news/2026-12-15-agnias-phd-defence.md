@@ -1,6 +1,6 @@
 ---
 layout: news-item
-date: 2026-12-15
+date: 2026-09-15
 title: "Save the date: Agnia’s PhD defence"
 tracks: [ 3 ]
 ---
