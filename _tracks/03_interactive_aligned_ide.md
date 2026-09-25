@@ -7,9 +7,9 @@ jb-leader: Agnia Sergeyuk (HAX Team Lead)
 phd: Agnia Sergeyuk (JetBrains) and Ziyou Li (TU Delft)
 ---
 
-An essential part of the success of tools like GitHub Copilot and ChatGPT is their interface. While some of these models' capabilities were available before, the tools brought them to larger audiences without dramatically disrupting their workflow or requiring lots of additional steps. IDE users have their own workflows and the injection of new complex features, such as LLM-based ones, is a non-trivial task. We believe that there is significant space for innovation in the field of Human-AI interaction. While chat is a popular and user-friendly way of using LLMs, we believe there are better ways to utilize them in IDEs. 
+An essential part of the success of tools like GitHub Copilot and ChatGPT is their interface. While some of these models’ capabilities were already available, the tools brought them to larger audiences without dramatically disrupting their workflows or requiring many additional steps. IDE users have their own workflows, and the injection of new complex features, such as LLM-based ones, is a non-trivial task. We believe that there is significant space for innovation in the field of Human-AI interaction. While chat is a popular and user-friendly way to use LLMs, we believe there are better ways to use them in IDEs.
 
-The goal of this project is to embed emerging LLM practices as code generation or code explanation into the developer workflow without disturbing the user and improving her productivity.
+The goal of this project is to embed emerging LLM practices as code generation or agentic capabilities into the developer workflow without disturbing the user and improving her productivity.
   
 #### MSc Students:
 - Nadine Kuo (graduated in 2025): [Thesis]({{ site.baseurl }}/projects/track-3/2025-07-18-proactive-chat-assistant-nadine-kuo)
