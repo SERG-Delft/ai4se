@@ -1,328 +1,475 @@
-- title: Evolutionary Generative Fuzzing for Differential Testing of the Kotlin Compiler
+# AI4SE publications
+
+- title: "<i>Evolutionary Generative Fuzzing for Differential Testing of the Kotlin Compiler</i>"
   authors:
-    - Calin Georgescu
-    - Mitchell Olsthoorn
-    - Pouria Derakhshanfar
-    - Marat Akhin
-    - Annibale Panichella
+    - "Calin Georgescu"
+    - "Mitchell Olsthoorn"
+    - "Pouria Derakhshanfar"
+    - "Marat Akhin"
+    - "Annibale Panichella"
   tracks:
     - 1
-  venue: FSE 2024 - Industry Track
+  venue: "ACM International Conference on the Foundations of Software Engineering (<strong>FSE — Industry Track</strong>)"
   year: 2024
-  preprint: https://arxiv.org/pdf/2401.06653
+  preprint: https://doi.org/10.1145/3663529.3663864
 
-- title: "TestSpark: IntelliJ IDEA's Ultimate Test Generation Companion"
+- title: "<i>TestSpark: IntelliJ IDEA's Ultimate Test Generation Companion</i>"
   authors:
-    - Arkadii Sapozhnikov
-    - Mitchell Olsthoorn
-    - A. Panichella
-    - V.V. Kovalenko
-    - P. Derakhshanfar
+    - "Arkadii Sapozhnikov"
+    - "Mitchell Olsthoorn"
+    - "Annibale Panichella"
+    - "V. V. Kovalenko"
+    - "Pouria Derakhshanfar"
   tracks:
     - 1
-  venue: Proceedings - 2024 ACM/IEEE 46th International Conference on Software Engineering
+  venue: "46th IEEE/ACM International Conference on Software Engineering, Companion Proceedings (<strong>ICSE Companion — Tool Demonstration</strong>)"
   year: 2024
-  preprint: https://research.tudelft.nl/en/publications/testspark-intellij-ideas-ultimate-test-generation-companion
+  preprint: https://doi.org/10.1145/3639478.3640024
 
-- title: In-IDE Human-AI Experience in the Era of Large Language Models; A Literature Review
+- title: "<i>In-IDE Human-AI Experience in the Era of Large Language Models: A Literature Review</i>"
   authors:
-    - Agnia Sergeyuk
-    - Sergey Titov
-    - Maliheh Izadi
+    - "Agnia Sergeyuk"
+    - "Sergey Titov"
+    - "Maliheh Izadi"
   tracks:
     - 3
-  venue: The 1st Workshop on Integrated Development Environments (the <b>IDE</b> Workshop), Co-located with <b>ACM/IEEE ICSE</b>
+  venue: "First Workshop on Integrated Development Environments (<strong>IDE Workshop</strong>), co-located with <strong>ICSE</strong>"
   year: 2024
-  preprint: https://dl.acm.org/doi/10.1145/3643796.3648463
+  preprint: https://doi.org/10.1145/3643796.3648463
 
-- title: <i>A Transformer-Based Approach for Smart Invocation of Automatic Code Completion</i>
+- title: "<i>A Transformer-Based Approach for Smart Invocation of Automatic Code Completion</i>"
   authors:
-    - Aral de Moor
-    - Arie van Deursen
-    - Maliheh Izadi
+    - "Aral de Moor"
+    - "Arie van Deursen"
+    - "Maliheh Izadi"
   tracks:
     - 2
     - 3
-  venue: Proceedings of the 1st ACM International Conference on AI-Powered Software (<strong>AIWare</strong>), co-located with ACM <b>FSE</b>, <strong>ACM Distinguished Paper Award</strong> &#127942;
+  venue: "First ACM International Conference on AI-Powered Software (<strong>AIWare</strong>), co-located with <strong>FSE</strong>; <strong>ACM Distinguished Paper Award</strong>"
   year: 2024
-  preprint: https://dl.acm.org/doi/abs/10.1145/3664646.3664760
+  preprint: https://doi.org/10.1145/3664646.3664760
 
-- title: <i>Long Code Arena; a Set of Benchmarks for Long-Context Code Models</i>
+- title: "<i>Long Code Arena: a Set of Benchmarks for Long-Context Code Models</i>"
   authors:
-    - Egor Bogomolov
-    - Aleksandra Eliseeva
-    - Timur Galimzyanov
-    - Evgeniy Glukhov
-    - Anton Shapkin
-    - Maria Tigina
-    - Yaroslav Golubev
-    - Alexander Kovrigin
-    - Arie van Deursen
-    - Maliheh Izadi
-    - Timofey Bryksin
+    - "Egor Bogomolov"
+    - "Aleksandra Eliseeva"
+    - "Timur Galimzyanov"
+    - "Evgeniy Glukhov"
+    - "Anton Shapkin"
+    - "Maria Tigina"
+    - "Yaroslav Golubev"
+    - "Alexander Kovrigin"
+    - "Arie van Deursen"
+    - "Maliheh Izadi"
+    - "Timofey Bryksin"
   tracks:
     - 2
-  venue: Arxiv:2406.11612
+  venue: "arXiv preprint"
   year: 2024
   preprint: https://arxiv.org/abs/2406.11612
 
-- title: <i>The Design Space of in-IDE Human-AI Experience</i>
+- title: "<i>Understanding Concurrency Bugs in Real-World Programs with Kotlin Coroutines</i>"
   authors:
-    - Agnia Sergeyuk
-    - Ekaterina Koshchenko
-    - Ilya Zakharov
-    - Timofey Bryksin
-    - Maliheh Izadi
-  tracks:
-    - 3
-  venue: Preprint
-  year: 2024
-  preprint: https://arxiv.org/abs/2410.08676
-
-- title: Understanding Concurrency Bugs in Real-World Programs with Kotlin Coroutines
-  authors:
-    - Bob Brockbernd
-    - Nikita Koval
-    - Arie van Deursen
-    - Burcu Kulahcioglu Ozkan
+    - "Bob Brockbernd"
+    - "Nikita Koval"
+    - "Arie van Deursen"
+    - "Burcu Kulahcioglu Ozkan"
   tracks:
     - 4
-  venue: 38th European Conference on Object-Oriented Programming (ECOOP 2024)
+  venue: "38th European Conference on Object-Oriented Programming (<strong>ECOOP</strong>)"
   year: 2024
   preprint: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ECOOP.2024.8
 
-- title: <i>Rethinking IDE Customization for Enhanced HAX; A Hyperdimensional Perspective</i>
+- title: "<i>Rethinking IDE Customization for Enhanced HAX: A Hyperdimensional Perspective</i>"
   authors:
-    - Roham Koohestani
-    - Maliheh Izadi
+    - "Roham Koohestani"
+    - "Maliheh Izadi"
   tracks:
     - 3
-  venue: The 2nd Workshop on Integrated Development Environments (the <strong>IDE Workshop</strong>), Co-located with <b>ACM/IEEE ICSE</b>
+  venue: "Second Workshop on Integrated Development Environments (<strong>IDE Workshop</strong>), co-located with <strong>ICSE</strong>"
   year: 2025
   preprint: https://arxiv.org/abs/2501.02491
 
-- title: <i> Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks</i>
+- title: "<i>Metamorphic-Based Many-Objective Distillation of LLMs for Code-related Tasks</i>"
   authors:
-    - Annibale Panichella
+    - "Annibale Panichella"
   tracks:
     - 1
-  venue: The 47th IEEE/ACM International Conference on Software Engineering (<strong>ACM/IEEE ICSE - Research track</strong>)
+  venue: "47th IEEE/ACM International Conference on Software Engineering (<strong>ICSE — Research Track</strong>)"
   year: 2025
-  preprint: https://research.tudelft.nl/en/publications/metamorphic-based-many-objective-distillation-of-llms-for-code-re/
+  preprint: https://doi.org/10.1109/ICSE55347.2025.00230
 
-- title: <i>A Multi-agent Onboarding Assistant based on Large Language Models, Retrieval Augmented Generation, and Chain-of-Thought</i>
+- title: "<i>A Multi-agent Onboarding Assistant based on Large Language Models, Retrieval Augmented Generation, and Chain-of-Thought</i>"
   authors:
-    - Andrei-Cristian Ionescu
-    - Sergey Titov
-    - Maliheh Izadi
+    - "Andrei-Cristian Ionescu"
+    - "Sergey Titov"
+    - "Maliheh Izadi"
   tracks:
     - 3
-  venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE - Demonstration</strong>)
+  venue: "ACM International Conference on the Foundations of Software Engineering (<strong>FSE — Demonstration</strong>)"
   year: 2025
   preprint: https://arxiv.org/abs/2503.23421
 
-- title: <i>HyperSeq; A Hyper-Adaptive Representation for Predictive Sequencing of States</i>
+- title: "<i>HyperSeq: A Hyper-Adaptive Representation for Predictive Sequencing of States</i>"
   authors:
-    - Roham Koohestani
-    - Maliheh Izadi
+    - "Roham Koohestani"
+    - "Maliheh Izadi"
   tracks:
     - 3
     - 2
-  venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE - Ideas, Visions and Reflections</strong>)
+  venue: "ACM International Conference on the Foundations of Software Engineering (<strong>FSE — Ideas, Visions and Reflections</strong>)"
   year: 2025
   preprint: https://arxiv.org/abs/2503.10254
 
-- title: <i>Enhancing Large Language Model Integration in Integrated Development Environments</i>
+- title: "<i>Enhancing Large Language Model Integration in Integrated Development Environments</i>"
   authors:
-    - Daniele Cipollone
+    - "Daniele Cipollone"
   tracks:
     - 2
-  venue: ACM International Conference on the Foundations of Software Engineering (<strong>FSE - Doctoral Symposium</strong>)
+  venue: "ACM International Conference on the Foundations of Software Engineering (<strong>FSE — Doctoral Symposium</strong>)"
   year: 2025
-  preprint: https://dl.acm.org/doi/10.1145/3696630.3731471
+  preprint: https://doi.org/10.1145/3696630.3731471
 
-- title: <i>Mediating between Human Programmers and Integrated Development Environments using LLM-based Agents</i>
+- title: "<i>Mediating between Human Programmers and Integrated Development Environments using LLM-based Agents</i>"
   authors:
-    - Ziyou Li
+    - "Ziyou Li"
   tracks:
     - 3
-  venue: The 2025 <b>ACM</b> International Conference on the Foundations of Software Engineering (<strong>FSE - Doctoral Symposium</strong>)
+  venue: "ACM International Conference on the Foundations of Software Engineering (<strong>FSE — Doctoral Symposium</strong>)"
   year: 2025
-  preprint: https://dl.acm.org/doi/10.1145/3696630.3731460
+  preprint: https://doi.org/10.1145/3696630.3731460
 
-- title: <i>Enhancing Human-IDE Interaction in the SDLC using LLM-based Mediator Agents</i>
+- title: "<i>Enhancing Human-IDE Interaction in the SDLC using LLM-based Mediator Agents</i>"
   authors:
-    - Ziyou Li
-    - Maliheh Izadi
+    - "Ziyou Li"
+    - "Maliheh Izadi"
   tracks:
     - 3
-  venue: The 1st International Workshop on AI-Augmented SDLC (<strong>AI-SDLC Workshop</strong>), co-located with (<strong>FSE</strong>)
+  venue: "First International Workshop on AI-Augmented SDLC (<strong>AI-SDLC Workshop</strong>), co-located with the ACM International Conference on the Foundations of Software Engineering (<strong>FSE</strong>)"
   year: 2025
-  preprint: https://dl.acm.org/doi/10.1145/3696630.3728721
+  preprint: https://doi.org/10.1145/3696630.3728721
 
-- title: <i> When People Come First, A Human-Centered Approach to Computer Science Education</i>
+- title: "<i>When People Come First, A Human-Centered Approach to Computer Science Education</i>"
   authors:
-    - Ilya Zakharov
-    - Liudmila Piatnitckaia
-    - Anastasia Birillo
-    - Agnia Sergeyuk
-    - Maliheh Izadi
+    - "Ilya Zakharov"
+    - "Liudmila Piatnitckaia"
+    - "Anastasiia Birillo"
+    - "Agnia Sergeyuk"
+    - "Maliheh Izadi"
   tracks:
     - 3
     - 5
-  venue: The ACM Conference on Innovation and Technology in Computer Science Education (<strong>ITiCSE - Panel contribution</strong>)
+  venue: "ACM Conference on Innovation and Technology in Computer Science Education (<strong>ITiCSE — Panel contribution</strong>)"
   year: 2025
-  preprint: https://dl.acm.org/doi/10.1145/3724389.3730766
+  preprint: https://doi.org/10.1145/3724389.3730766
 
-- title: "<i> Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation</i>"
+- title: "<i>Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation</i>"
   authors:
-    - Azat Abdullin
-    - Pouria Derakhshanfar
-    - Annibale Panichella
+    - "Azat Abdullin"
+    - "Pouria Derakhshanfar"
+    - "Annibale Panichella"
   tracks:
     - 1
-  venue: 18th  IEEE International Conference on Software Testing, Verification and Validation (<strong>ICST - Research Papers Track</strong>)
+  venue: "18th IEEE International Conference on Software Testing, Verification and Validation (<strong>ICST — Research Papers Track</strong>)"
   year: 2025
   preprint: https://arxiv.org/abs/2501.10200
 
-- title: <i> Improving the Comprehensibility of Generated Test Suites Using Test Case Clustering</i>
+- title: "<i>Improving the Comprehensibility of Generated Test Suites Using Test Case Clustering</i>"
   authors:
-    - Mitchell Olsthoorn
+    - "Mitchell Olsthoorn"
   tracks:
     - 1
-  venue: 18th  IEEE International Conference on Software Testing, Verification and Validation (<strong>ICST - Short Papers, Vision and Emerging Results Track</strong>)
+  venue: "18th IEEE International Conference on Software Testing, Verification and Validation (<strong>ICST — Short Papers, Vision and Emerging Results Track</strong>)"
   year: 2025
-  preprint: https://research.tudelft.nl/en/publications/improving-the-comprehensibility-of-generated-test-suites-using-te/
+  preprint: https://doi.org/10.1109/ICST62969.2025.10988953
 
-- title: <i> Designing and Evaluating AI‑Generated Multimodal Analogy‑Based Explanations</i>
+- title: "<i>Designing and Evaluating AI-Generated Multimodal Analogy-Based Explanations</i>"
   authors:
-    - Yuri Noviello
+    - "Yuri Noviello"
   tracks:
     - 5
-  venue: 26th International Conference on Artificial Intelligence in Education (<strong>AIED - Doctoral Consortium</strong>)
+  venue: "26th International Conference on Artificial Intelligence in Education (<strong>AIED — Doctoral Consortium</strong>)"
   year: 2025
   preprint: https://link.springer.com/chapter/10.1007/978-3-031-99261-2_51
 
-- title: Multimodal Analogy Generation in Programming Education
+- title: "<i>Multimodal Analogy Generation in Programming Education</i>"
   authors:
-    - Yuri Noviello
-    - Anatasiia Birillo
-    - Gosia Migut
+    - "Yuri Noviello"
+    - "Anastasiia Birillo"
+    - "Gosia Migut"
   tracks:
     - 5
-  venue: Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education V. 2
+  venue: "Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education, Volume 2 (<strong>ITiCSE — Poster contribution</strong>)"
   year: 2025
-  preprint: https://dl.acm.org/doi/abs/10.1145/3724389.3730781
+  preprint: https://doi.org/10.1145/3724389.3730781
 
-- title: "<i> Metamorphic Testing of Deep Code Models: A Systematic Literature Review</i>"
+- title: "<i>Exploring the black box: analysing explainable AI challenges and best practices through stack exchange discussions</i>"
   authors:
-    - Ali Asgari
-    - Milan de Koning
-    - Pouria Derakhshanfar
-    - Annibale Panichella
+    - "Mohammad Mahdi Sayyadnejad"
+    - "Ali Asgari"
+    - "Ashkan Sami"
+    - "Hooman Tahayori"
   tracks:
     - 1
-  venue: ACM Transactions on Software Engineering Methodology (TOSEM)
+  venue: "Empirical Software Engineering (<strong>EMSE</strong>), 30, Article 176; journal-first presentation at <strong>ICSE 2026</strong>"
+  year: 2025
+  preprint: https://doi.org/10.1007/s10664-025-10710-5
+
+- title: "<i>Metamorphic Testing of Deep Code Models: A Systematic Literature Review</i>"
+  authors:
+    - "Ali Asgari"
+    - "Milan de Koning"
+    - "Pouria Derakhshanfar"
+    - "Annibale Panichella"
+  tracks:
+    - 1
+  venue: "ACM Transactions on Software Engineering Methodology (<strong>TOSEM</strong>)"
   year: 2025
   preprint: https://doi.org/10.1145/3766552
 
-- title: "<i> TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs</i>"
+- title: "<i>TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs</i>"
   authors:
-    - Daniele Cipollone
-    - Egor Bogomolov
-    - Arie van Deursen
-    - Maliheh Izadi
+    - "Daniele Cipollone"
+    - "Egor Bogomolov"
+    - "Arie van Deursen"
+    - "Maliheh Izadi"
   tracks:
     - 2
-  venue: In the proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering, (<strong>ASE 2025 - Industry track</strong>)
+  venue: "40th IEEE/ACM International Conference on Automated Software Engineering (<strong>ASE — Industry Showcase</strong>)"
   year: 2025
-  preprint: https://doi.org/10.48550/arXiv.2508.02455
+  preprint: https://arxiv.org/abs/2508.02455
 
-- title: "<i>Human-AI experience in integrated development environments: a systematic literature review </i>"
+- title: "<i>Prompt-with-Me: in-IDE Structured Prompt Management for LLM-Driven Software Engineering</i>"
   authors:
-    - Agnia Sergeyuk
-    - Ilya Zakharov
-    - Ekaterina Koshchenko
-    - Maliheh Izadi
+    - "Ziyou Li"
+    - "Agnia Sergeyuk"
+    - "Maliheh Izadi"
   tracks:
     - 3
-  venue: Empirical Software Engineering, 31(3), 55
-  year: 2026
-  preprint: https://doi.org/10.48550/arXiv.2503.06195
-
-- title: <i> Developer Needs and Feasible Features for AI Assistants in IDEs</i>
-  authors:
-    - Agnia Sergeyuk
-    - Ekaterina Koshchenko
-    - Ilya Zakharov
-    - Timofey Bryksin
-    - Maliheh Izadi
-  tracks:
-    - 3
-  venue: the IEEE/ACM International Conference on Software Engineering 2026 (<strong>ICSE'26 - SEIP</strong>)
+  venue: "40th IEEE/ACM International Conference on Automated Software Engineering (<strong>ASE — Industry Showcase</strong>)"
   year: 2025
-  preprint: https://doi.org/10.48550/arXiv.2410.08676
-
-- title: "<i> Prompt-with-Me: in-IDE Structured Prompt Management for LLM-Driven Software Engineering</i>"
-  authors:
-    - Ziyou Li
-    - Agnia Sergeyuk
-    - Maliheh Izadi
-  tracks:
-    - 3
-  venue: 40th IEEE/ACM International Conference on Automated Software Engineering, (<strong>ASE 2025 - Industry track</strong>)
-  year: 2025
-  preprint: https://doi.org/10.48550/arXiv.2509.17096
+  preprint: https://arxiv.org/abs/2509.17096
 
 - title: "<i>AgentGuard: Runtime Verification of AI Agents</i>"
   authors:
-    - Roham Koohestani
+    - "Roham Koohestani"
   tracks:
     - 3
-  venue: The First International Workshop on Autonomous Agents in Software Engineering Workshop (<strong>AgenticSE Workshop</strong>), co-located with (<strong>ASE</strong>)
+  venue: "First International Workshop on Autonomous Agents in Software Engineering (<strong>AgenticSE Workshop</strong>), co-located with the IEEE/ACM International Conference on Automated Software Engineering (<strong>ASE</strong>)"
   year: 2025
   preprint: https://arxiv.org/abs/2509.23864
 
-- title: "<i>Metamorphic-based many-objective distillation of LLMs for code-related tasks</i>"
+# First released in 2025 as Are Agents Just Automata? On the Formal Equivalence Between Agentic AI and the Chomsky Hierarchy. Journal acceptance has not been established.
+- title: "<i>Are Agents Probabilistic Automata? A Trace-Based, Memory-Constrained Theory of Agentic AI</i>"
   authors:
-    - Annibale Panichella
+    - "Roham Koohestani"
+    - "Ziyou Li"
+    - "Anton Podkopaev"
+    - "Maliheh Izadi"
+  tracks:
+    - 3
+  venue: "arXiv preprint, revised; resubmitted to Formal Aspects of Computing (<strong>FAC</strong>)"
+  year: 2026
+  preprint: https://arxiv.org/abs/2510.23487
+
+- title: "<i>TriCEGAR: A Trace-Driven Abstraction Mechanism for Agentic AI</i>"
+  authors:
+    - "Roham Koohestani"
+    - "Ateş Görpelioğlu"
+    - "Egor Klimov"
+    - "Burcu Kulahcioglu Ozkan"
+    - "Maliheh Izadi"
+  tracks:
+    - 3
+    - 4
+  venue: "arXiv preprint"
+  year: 2026
+  preprint: https://arxiv.org/abs/2601.22997
+
+- title: "<i>AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study</i>"
+  authors:
+    - "Yuri Noviello"
+    - "Naaz Sibia"
+    - "Anastasiia Birillo"
+    - "Thomas Overklift Vaupel Klein"
+    - "Michael Liut"
+    - "Gosia Migut"
+  tracks:
+    - 5
+  venue: "ACM Conference on Innovation and Technology in Computer Science Education (<strong>ITiCSE</strong>)"
+  year: 2026
+  preprint: https://arxiv.org/abs/2606.03288
+
+# An additional non-archival presentation is planned at the International Natural Language Generation Conference (INLG), 2026.
+- title: "<i>ANVIL: Analogies and Videos for Lecturers</i>"
+  authors:
+    - "Yuri Noviello"
+    - "Anastasiia Birillo"
+    - "Gosia Migut"
+  tracks:
+    - 5
+  venue: "International Conference on Artificial Intelligence in Education (<strong>AIED — Tool contribution</strong>)"
+  year: 2026
+  preprint: https://arxiv.org/abs/2605.16295
+
+- title: "<i>Observability and Fault Injection for LLM-Based Multi-Agent Systems in Software Engineering</i>"
+  authors:
+    - "Zahra Seyedghorban"
+    - "Egor Klimov"
+    - "Arie van Deursen"
+    - "Annibale Panichella"
+    - "Burcu Kulahcioglu Ozkan"
+  tracks:
+    - 4
+  venue: "IEEE International Conference on Software Testing, Verification and Validation (<strong>ICST — Testing Tools and Data Showcase</strong>)"
+  year: 2026
+  preprint: https://arxiv.org/abs/2608.24271
+
+- title: "<i>Towards Evaluation of Implicit Software World Models in Coding LLMs</i>"
+  authors:
+    - "Egor Bogomolov"
+    - "Yaroslav Zharov"
+  tracks:
+    - 2
+  venue: "Deep Learning for Code Workshop (<strong>DL4Code</strong>), co-located with the International Conference on Machine Learning (<strong>ICML</strong>)"
+  year: 2026
+  preprint: https://arxiv.org/abs/2606.27406
+
+# A NeurIPS submission was also reported; acceptance has not been established.
+- title: "<i>LibEvoBench: Probing Temporal Knowledge Stratification in Code Generation Models</i>"
+  authors:
+    - "Daniele Cipollone"
+    - "Sergey Titov"
+    - "Maliheh Izadi"
+    - "Egor Bogomolov"
+    - "Arie van Deursen"
+  tracks:
+    - 2
+  venue: "Deep Learning for Code Workshop (<strong>DL4Code</strong>), co-located with the International Conference on Machine Learning (<strong>ICML</strong>)"
+  year: 2026
+  preprint: https://arxiv.org/abs/2606.25402
+
+- title: "<i>What Challenges Do Developers Face in AI Agent Systems? An Empirical Study on Stack Overflow &amp; GitHub Issues</i>"
+  authors:
+    - "Ali Asgari"
+    - "Annibale Panichella"
+    - "Pouria Derakhshanfar"
+    - "Mitchell Olsthoorn"
   tracks:
     - 1
-  venue: IEEE/ACM 47th International Conference on Software Engineering (<strong>ICSE</strong>)
-  year: 2025
-  preprint: https://arxiv.org/abs/2509.23864
+  venue: "Accepted in the Journal of Systems and Software (<strong>JSS</strong>)"
+  year: 2026
+  preprint: https://arxiv.org/abs/2510.25423
+
+# Project track not established in the supplied materials; confirm before assigning.
+- title: "<i>Benchmarking AI Models in Software Engineering: A Review, Search Tool, and Unified Approach for Elevating Benchmark Quality</i>"
+  authors:
+    - "Roham Koohestani"
+    - "Philippe de Bekker"
+    - "Begüm Koç"
+    - "Maliheh Izadi"
+  tracks: []
+  venue: "IEEE Transactions on Software Engineering (<strong>TSE</strong>), 52(2); journal-first presentation at the ACM International Conference on the Foundations of Software Engineering (<strong>FSE</strong>)"
+  year: 2026
+  preprint: https://arxiv.org/abs/2503.05860
+
+# Earlier version: The Design Space of in-IDE Human-AI Experience, 2024.
+- title: "<i>Developer Needs and Feasible Features for AI Assistants in IDEs</i>"
+  authors:
+    - "Agnia Sergeyuk"
+    - "Ekaterina Koshchenko"
+    - "Ilya Zakharov"
+    - "Timofey Bryksin"
+    - "Maliheh Izadi"
+  tracks:
+    - 3
+  venue: "IEEE/ACM International Conference on Software Engineering (<strong>ICSE — Software Engineering in Practice</strong>)"
+  year: 2026
+  preprint: https://arxiv.org/abs/2410.08676
+
+- title: "<i>Human-AI Experience in Integrated Development Environments: A Systematic Literature Review</i>"
+  authors:
+    - "Agnia Sergeyuk"
+    - "Ilya Zakharov"
+    - "Ekaterina Koshchenko"
+    - "Maliheh Izadi"
+  tracks:
+    - 3
+  venue: "Empirical Software Engineering (<strong>EMSE</strong>), 31, Article 55"
+  year: 2026
+  preprint: https://doi.org/10.1007/s10664-025-10793-0
 
 - title: "<i>Developer Interaction Patterns with Proactive AI: A Five-Day Field Study</i>"
   authors:
-    - Nadine Kuo
-    - Agnia Sergeyuk
-    - Valerie Chen
-    - Maliheh Izadi
+    - "Nadine Kuo"
+    - "Agnia Sergeyuk"
+    - "Valerie Chen"
+    - "Maliheh Izadi"
   tracks:
     - 3
-  venue: The Annual ACM Conference on Intelligent User Interfaces (<strong>IUI</strong>)
+  venue: "ACM International Conference on Intelligent User Interfaces (<strong>IUI</strong>)"
   year: 2026
   preprint: https://arxiv.org/abs/2601.10253
 
 - title: "<i>A Metamorphic Testing Approach to Diagnosing Memorization in LLM-Based Program Repair</i>"
   authors:
-    - Milan de Koning
-    - Ali Asgari
-    - Pouria Derakhshanfar
-    - Annibale Panichella
+    - "Milan de Koning"
+    - "Ali Asgari"
+    - "Pouria Derakhshanfar"
+    - "Annibale Panichella"
   tracks:
     - 1
-  venue: The 26th Conference Software Quality, Reliability, and Security (<strong>QRS</strong>)
+  venue: "The 26th International Conference on Software Quality, Reliability, and Security (<strong>QRS</strong>)"
   year: 2026
   preprint: https://arxiv.org/abs/2604.21579
 
-- title: "<i>Test Case Selection for Deep Neural Networks: A Replication Study on LLMs for Code (Replicability Study)</i>"
+- title: "<i>Test Case Selection for Deep Neural Networks: A Replication Study on LLMs for Code</i>"
   authors:
-    - Ali Asgari
-    - Mitchell Olsthoorn
-    - Annibale Panichella
+    - "Ali Asgari"
+    - "Mitchell Olsthoorn"
+    - "Annibale Panichella"
   tracks:
     - 1
-  venue: The ACM SIGSOFT International Symposium on Software Testing and Analysis (<strong>ISSTA</strong>)
+  venue: "Accepted at the 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (<strong>ISSTA</strong>)"
   year: 2026
   preprint: https://arxiv.org/abs/2606.27601
+
+# Additional conference contributions
+
+- title: "<i>Creating in-IDE Programming Courses</i>"
+  authors:
+    - "Anastasiia Birillo"
+    - "Hieke Keuning"
+    - "Gosia Migut"
+    - "Katsiaryna Dzialets"
+    - "Yaroslav Golubev"
+  tracks:
+    - 5
+  venue: "ACM Technical Symposium on Computer Science Education (<strong>SIGCSE TS — Tutorial 104</strong>)"
+  year: 2025
+  preprint: https://sigcse2025.sigcse.org/details/sigcse-ts-2025-tutorials/11/Tutorial-104-Creating-in-IDE-Programming-Courses
+
+# Conference presentation; archival publication has not been established.
+- title: "<i>Silent Reliance or Diligent Review? Human-Agent Engagement and Interaction Patterns in GitHub</i>"
+  authors:
+    - "Ziyou Li"
+    - "Răzvan Mihai Popescu"
+    - "Maliheh Izadi"
+  tracks:
+    - 3
+  venue: "Journal Ahead Workshop (<strong>JAWs</strong>), co-located with <strong>ICSE</strong>"
+  year: 2026
+  preprint: https://conf.researchr.org/home/icse-2026/jaws-2026
+
+# Manuscript under review
+
+# Acceptance and the complete author list have not been established from the available public record.
+- title: "<i>ATP: the Agentic Transfer Protocol</i>"
+  authors:
+    - "Authors anonymized for review"
+  tracks:
+    - 3
+    - 4
+  venue: "Submitted to the NeurIPS Workshop on Foundations of Agentic Systems Theory (<strong>FAST</strong>)"
+  year: 2026
+  preprint: https://atp-protocol.com/
